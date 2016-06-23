@@ -1,0 +1,16 @@
+3ceab95857926e75c6aa76ec48b9c74c *DESCRIPTION
+7369243075487e7c8a0e6ff1696f4a5c *NAMESPACE
+f3291559456bdca209fa091e9035aa79 *NEWS
+c15d62a44892738fe269ca1559d00c53 *R/dragSetUI.R
+d660321ff7ddcbc5dec684a6080c84d6 *R/dragUI.R
+4cb04b7c069da4b856476e63e423faf6 *R/dropUI.R
+6259d64b2632537d81f9e7132f84adee *R/shinyDND.R
+aa159d1639541f7de691c254a09791af *R/util.R
+093b255a7ff34303b39644c28f558940 *README.md
+6d73bd2b7bdea1af59674b3d0898b6ca *inst/examples/app.R
+ff9fe214f6936abd6c7ed7f6fd9ae5f6 *inst/www/dragndrop.css
+078141a21ecfdc1c58f3c5ad31427ec8 *inst/www/dragndrop.js
+95cee618e0b0650ed1f2da540c1a8efc *man/dragSetUI.Rd
+545893ae0872e5f3d3e5e00068dadae5 *man/dragUI.Rd
+3fce8f8fd78d8b980084cdce6a07f7ad *man/dropUI.Rd
+dceb32b47745bd1992be60e2a56266f6 *man/shinyDND.Rd
